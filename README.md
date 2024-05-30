@@ -2,4 +2,4 @@
 
 Library created with HTML, CSS, JS.
 
-[Live Demo](lol) :point_left:
+[Live Demo](https://percobain.github.io/my-library/) :point_left:
